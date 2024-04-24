@@ -1,0 +1,10 @@
+body {
+  font-size: 15pt;
+  font-family: helvetica, Impact;
+}
+main {
+background-color: #f7f7f7; 
+padding: 20px;
+border: 1px solid #ddd;
+border-radius: 10px;
+}
